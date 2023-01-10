@@ -1,6 +1,7 @@
 # Programming-for-Data-Analysis-2
 
-Project 2
+##### *Name: Megan O'Donovan*
+##### *Email: G00411435@gmit.ie*
 
 ### Aim
 Our objective is to identify which features are most helpful in predicting malignant or benign cancer and to classify whether the breast cancer is benign or malignant. The dataset being used in this report was published here. This data set was created by Doctor William H. Wolberg, physician at the University of Wisconsin Hospital at Madison, Wisconsin,USA. Breast Cancer occurs as a result of abnormal growth of cells in the breast tissue, commonly referred to as a Tumour, which can be benign (not cancerous) or malignant (cancerous). Dr. Wolberg recorded results from 10 features, calculating the mean value, extreme  or worst value and standard error from each feature. Additional patient information was also recorded in the dataset: Patient ID and Diagnosis(M= Malignant, B=Benign)
@@ -64,16 +65,16 @@ Since we care more about recall, than precision when classifying malignant or be
 * The most predictive features using random forest classification are mean for texture, perimeter and area, area se, and worst area perimeter. <br>
 
 ### References:<br>
-•	https://towardsdatascience.com/building-a-simple-machine-learning-model-on-breast-cancer-data-eca4b3b99fa3
-•	https://rstudio-pubs-static.s3.amazonaws.com/344010_1f4d6691092d4544bfbddb092e7223d2.html
-•	https://medium.com/@shahid_dhn/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-d6cf8b47f49a
-•	https://github.com/pkmklong/Breast-Cancer-Wisconsin-Diagnostic-DataSet/blob/master/Breast%20Cancer%20Wisconsin%20(Diagnostic)%20DataSet_Orignal_Data_In_Progress.ipynb
-•	https://github.com/mugdhapai/Cancer_Classification/blob/main/Code/cancer_classification.ipynb
-•	https://chriskhanhtran.github.io/minimal-portfolio/projects/breast-cancer.html
-•	https://medium.com/@kathrynklarich/exploring-and-evaluating-ml-algorithms-with-the-wisconsin-breast-cancer-dataset-506194ed5a6a
-•	https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/
-•	https://www.projectpro.io/recipes/select-features-using-chi-squared-in-python
-•	https://towardsdatascience.com/feature-selection-using-random-forest-26d7b747597f
-•	https://www.yourdatateacher.com/2021/10/11/feature-selection-with-random-forest/
+•	https://towardsdatascience.com/building-a-simple-machine-learning-model-on-breast-cancer-data-eca4b3b99fa3  <br>
+•	https://rstudio-pubs-static.s3.amazonaws.com/344010_1f4d6691092d4544bfbddb092e7223d2.html  <br>
+•	https://medium.com/@shahid_dhn/building-ml-model-to-predict-whether-the-cancer-is-benign-or-malignant-on-breast-cancer-wisconsin-d6cf8b47f49a  <br>
+•	https://github.com/pkmklong/Breast-Cancer-Wisconsin-Diagnostic-DataSet/blob/master/Breast%20Cancer%20Wisconsin%20(Diagnostic)%20DataSet_Orignal_Data_In_Progress.ipynb  <br>
+•	https://github.com/mugdhapai/Cancer_Classification/blob/main/Code/cancer_classification.ipynb  <br>
+•	https://chriskhanhtran.github.io/minimal-portfolio/projects/breast-cancer.html <br>
+•	https://medium.com/@kathrynklarich/exploring-and-evaluating-ml-algorithms-with-the-wisconsin-breast-cancer-dataset-506194ed5a6a <br>
+•	https://www.geeksforgeeks.org/box-plot-in-python-using-matplotlib/ <br>
+•	https://www.projectpro.io/recipes/select-features-using-chi-squared-in-python  <br>
+•	https://towardsdatascience.com/feature-selection-using-random-forest-26d7b747597f  <br>
+•	https://www.yourdatateacher.com/2021/10/11/feature-selection-with-random-forest/  <br>
 
 
